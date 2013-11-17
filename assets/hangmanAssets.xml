@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8a7c80266ae49bd2d7f9ade60362733f:f17cd33b4f9e337b84b608247e24dc80:c4115c548cf7742e4c728a1a2128ead5$ -->
+<TextureAtlas imagePath="hangmanAssets.png">
+    <SubTexture name="V1" x="2" y="642" width="251" height="129"/>
+    <SubTexture name="V2" x="314" y="89" width="111" height="99"/>
+    <SubTexture name="V3" x="396" y="190" width="37" height="178"/>
+    <SubTexture name="V4" x="435" y="232" width="44" height="34"/>
+    <SubTexture name="V5" x="314" y="63" width="120" height="24"/>
+    <SubTexture name="V6" x="481" y="232" width="25" height="76"/>
+    <SubTexture name="V7" x="436" y="63" width="53" height="167"/>
+    <SubTexture name="bg" x="2" y="2" width="310" height="450"/>
+    <SubTexture name="cell" x="435" y="268" width="24" height="33"/>
+    <SubTexture name="hangman" x="314" y="190" width="80" height="180"/>
+    <SubTexture name="play" x="314" y="2" width="177" height="59"/>
+    <SubTexture name="rules" x="2" y="454" width="279" height="186"/>
+</TextureAtlas>
